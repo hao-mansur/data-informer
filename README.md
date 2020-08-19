@@ -1,1 +1,1 @@
-# stock-data-informer
+# data-informer
